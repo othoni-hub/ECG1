@@ -3,7 +3,7 @@
 
 * **ch1**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch1_Notebook.ipynb)
-[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=<https://github.com/othoni-hub/ECG1/Ch1_Notebook.ipynb>)
+[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=<https://github.com/othoni-hub/ECG1/HEAD?filepath=Ch1_Notebook.ipynb>)
 
  
 * **ch2**
