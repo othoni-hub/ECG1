@@ -41,6 +41,8 @@
  
  * **ch7**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch7_Notebook.ipynb)
+ **Ch7 TP Convergence des suites, approxmations**
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch7_TP_Convergence_suites.ipynb)
  
  * **ch8**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch8_Notebook.ipynb)
