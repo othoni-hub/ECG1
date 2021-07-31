@@ -28,9 +28,9 @@
  
  * **ch4**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch4_Notebook.ipynb)
- **Ch4 TD corrigés**
+ **ch4 TD corrigés**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch4_TD_Corriges.ipynb)
- **Ch4 TP Chemin minimal(Dijkstra)**
+ **ch4 TP Chemin minimal(Dijkstra)**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch4_TP_Graphes_Dijkstra_Corrige.ipynb)
  
  * **ch5**
@@ -41,7 +41,7 @@
  
  * **ch7**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch7_Notebook.ipynb)
- **Ch7 TP Convergence des suites, approximations**
+ **ch7 TP Convergence des suites, approximations**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch7_TP_Convergence_suites.ipynb)
  
  * **ch8**
@@ -53,6 +53,8 @@
   
  * **ch10**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch10_Notebook.ipynb)
+ * **ch10 Simulation d'expériences aléatoires avec Python**
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Notebook _Simulation.ipynb)
  
  * **ch11**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch11_Notebook.ipynb)
