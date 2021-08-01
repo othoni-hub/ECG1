@@ -49,6 +49,8 @@
  
  * **ch9**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch9_Notebook.ipynb)
+ **ch9 Résolution approchée d'équations**
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Approximations_numeriques.ipynb)
  
   
  * **ch10**
