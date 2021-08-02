@@ -66,6 +66,8 @@
  
  * **ch13**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch13_Notebook.ipynb)
+ **ch13 Convergence des Séries et approximations classiques**
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=TP_Convergence_des_Series.ipynb)
  
  * **ch14**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch14_Notebook.ipynb)
