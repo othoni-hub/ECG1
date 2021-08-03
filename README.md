@@ -71,6 +71,8 @@
  
  * **ch14**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch14_Notebook.ipynb)
+ **ch14 TP Variables aléatoires**
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=TP-VariablesAleatoires.ipynb)
  
  * **ch15**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch15_Notebook.ipynb)
