@@ -81,6 +81,8 @@
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch16_Notebook.ipynb)
   **ch16 TP Lois discrètes**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=TP_Lois_Discretes_usuelles.ipynb)
+ **ch16 TP Binomiale --> Poisson**
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=TP-Binomiale-Poisson-corrige.ipynb)
  
  * **ch17**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch17_Notebook.ipynb)
