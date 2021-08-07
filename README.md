@@ -86,8 +86,6 @@
  **ch16 TP Binomiale --> Poisson**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=TP_Binomiale_Poisson_corrige.ipynb)
  
- * **ch17**
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch17_Notebook.ipynb)
  
  * **ch18**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch18_Notebook.ipynb)
