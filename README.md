@@ -90,6 +90,9 @@
  * **ch17**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch17_Notebook.ipynb)
  
+ **ch17 TP Résolution d'équations différentielles**
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=TP_EquaDiff_Sol_et_Champ.ipynb)
+ 
  * **ch18**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch18_Notebook.ipynb)
  
