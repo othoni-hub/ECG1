@@ -60,7 +60,7 @@
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Notebook_Simulation.ipynb)
  
   * **ch10 TP : les bases des probabilités avec Python**
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Notebook_Simulation.ipynb)
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Les_bases_en_probabilit%C3%A9s.ipynb)
   **ch10 Correction du TP : les bases des probabilités avec Python**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Correction_TP_bases_en_probabilités.ipynb)
  
