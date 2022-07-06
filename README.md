@@ -39,7 +39,7 @@
  * **ch6**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch6_Notebook.ipynb)
  
- * **ch7**
+ * **ch7 TD EX1-2**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch7_TD_Notebook.ipynb)
  **ch7 TP Convergence des suites, approximations**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch7_TP_Convergence_suites.ipynb)
