@@ -80,6 +80,9 @@
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch14_Notebook.ipynb)
  **ch14 TP Variables aléatoires**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=TP-VariablesAleatoires.ipynb)
+ **ch14-Probas-VA-énoncés**
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Les_bases_en_probabilités.ipynb)
+ https://github.com/othoni-hub/ECG1/blob/main/Les_bases_en_probabilit%C3%A9s.ipynb
  
  * **ch15**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch15_Notebook.ipynb)
